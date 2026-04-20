@@ -16,7 +16,7 @@ cities = [
     "Rizal",
     "Laur",
     "Gabaldon",
-    
+    "Palayan",
     "Dingalan", # Aurora
     "Alfonso", # Nueva Vizcaya
     "Tarlac City" # Tarlac
@@ -114,5 +114,4 @@ def process_image():
             file_name=f"{updated_date}:{updated_time}.jpg", width="stretch")
 
 if process_now:
-    process_image()
-    
+    process_image() 
