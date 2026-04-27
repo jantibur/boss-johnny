@@ -1,3 +1,3 @@
-boss-johnny
+# boss-johnny
 
-A simple script for a simple and repetitive task.
+Utilities for simple tasks
