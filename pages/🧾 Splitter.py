@@ -10,9 +10,9 @@ banana_ketchup_sold = pd.DataFrame([{"25g": 0, "100g": 0, "325g": 0, "550g": 0, 
 
 # Product Price List
 
-vinegar_price  = pd.DataFrame([{"60mL": 3.5, "100mL": 5.5, "200mL": 7.6, "350mL": 17.75, "1000mL": 41.25}], dtype=float)
-soy_sauce_price = pd.DataFrame([{"60mL": 4, "100mL": 6.25, "200mL": 10, "350mL": 18.75, "1000mL": 51}], dtype=float)
-banana_ketchup_price = pd.DataFrame([{"25g": 3.5, "100g": 10.25, "325g": 26, "550g": 42.5, "1000g": 66.75}], dtype=float)
+vinegar_price  = pd.DataFrame([{"60mL": 3.75, "100mL": 6, "200mL": 8.25, "350mL": 18, "1000mL": 45}], dtype=float)
+soy_sauce_price = pd.DataFrame([{"60mL": 4.50, "100mL": 6.75, "200mL": 10.75, "350mL": 19.75, "1000mL": 55.50}], dtype=float)
+banana_ketchup_price = pd.DataFrame([{"25g": 3.67, "100g": 11, "325g": 27, "550g": 46, "1000g": 72}], dtype=float)
 
 # Script Parameter
 
